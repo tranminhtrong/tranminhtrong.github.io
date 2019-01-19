@@ -94,20 +94,6 @@ main header .intro-text .skills{font-size:1.15em;
 }
 main section{background:#eee;padding:40px 0;
 }
-main section#contact>div{margin:0px auto;
-}
-main section#contact>div>div{width:80%;
-}
-main section#contact>div>div p{margin:60px auto 0;max-width:700px;
-}
-@media(min-width:1023px){
-  main section#contact>div>div{max-width:38%;
-  }
-  main section#contact>div>div p{margin-top:35px;
-  }
-  main section#contact>div>div p:last-child{margin-top:270px;
-  }
-}
 #portfolio .grid{padding:0;max-width:90%;list-style:none;margin-top:20px;
 }
 #portfolio .grid li{margin:20px;max-width:600px;
